@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zac-karis
-- 👀 I’m interested in automated trading
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently working as a quant engineer
 - 💞️ I’m looking to collaborate on AI and machine learning projects. 
 - 📫 How to reach me @ mail:bitcode77@gmail.com
 
